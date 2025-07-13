@@ -6,6 +6,6 @@ function main()
     while not isSampAvailable() do wait(100) end
     while true do
     wait(0)
-sampAddChatMessage("Chairto 1 ! ", -1)
+sampAddChatMessage("Chairto 12 ! ", -1)
     end
 end
