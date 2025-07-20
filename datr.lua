@@ -1,1 +1,1 @@
-os.execute("start")
+print("")
